@@ -1,2 +1,2 @@
 # Leet-Code
-My repo of solved leet code questions
+My repository of solved leet code questions
